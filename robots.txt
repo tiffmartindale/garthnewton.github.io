@@ -1,1 +1,1 @@
-Sitemap: https://staging-superman.vidyard.com/sitemaps/sitemap-3nGyDmOye_fUUErXrZUi3A.xml
+Sitemap: https://staging-qa.vidyard.com/sitemaps/sitemap-3nGyDmOye_fUUErXrZUi3A.xml
